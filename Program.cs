@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("午安你好！");
+        Console.WriteLine("晚安你好");
         Console.ReadKey();
     }
 }
